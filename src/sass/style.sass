@@ -23,6 +23,7 @@ $color-orange: #F28B64
     &__logo
         width: 134px
     &__content-container
+        position: relative
         display: flex
         flex-direction: row
 
@@ -74,6 +75,23 @@ $color-orange: #F28B64
         border-radius: 100px
         transform: rotate(-36.15deg)
         z-index: 1
+.right-wrapper
+    width: 372px
+    position: absolute
+    top: 150px
+    right: 76px
+    &__icon_box
+        margin-bottom: 1px
+        padding-left: 10px
+    &__title
+        margin-bottom: 5px
+    &__text
+        font-size: 16px
+        margin-bottom: 20px
+
+
+
+
 .icons
     display: inline-flex
     &__item
@@ -90,5 +108,36 @@ $color-orange: #F28B64
             margin-right: 0px
         i
             font-size: 21px
+
+.title
+    font-size: 72px
+    position: relative
+    &__hr
+        width: 65px
+        position: absolute 
+        bottom: 0px
+        margin: 0px
+        border: none
+        border-top: 1px solid black
+.buttons
+    display: inline-flex
+    &__main-btn
+        margin-right: 32px
+        width: 200px
+        height: 60px
+        background: $color-orange
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+        border-radius: 100px
+        border: none
+        font-size: 18px
+        color: white
+    &__icon-btn
+        display: inline-flex
+        align-items: center
+        img
+            margin-right:12px
+    &__text
+        font-size: 16px
+
 
         
