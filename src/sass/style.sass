@@ -11,9 +11,12 @@ $color-orange: #F28B64
     max-width: 1140px
     margin: 0 auto
 .main-section
+    position: relative
     height: 800px
     background: #F0F0F0
     padding-top: 16px
+    overflow: hidden //все что заходит за границы должно быть невидимым
+    margin-bottom: 20px
     &__nav-container
         display: flex
         flex-direction: row
@@ -26,7 +29,14 @@ $color-orange: #F28B64
         position: relative
         display: flex
         flex-direction: row
-
+    &__first-elipse
+        position: absolute
+        top: 129px
+        right: 34px
+    &__second-elipse
+        position: absolute
+        right: -120px
+        top: 650px
 .nav-menu
     &__list
         display: flex
@@ -80,6 +90,7 @@ $color-orange: #F28B64
     position: absolute
     top: 150px
     right: 76px
+    z-index: 1
     &__icon_box
         margin-bottom: 1px
         padding-left: 10px
@@ -102,7 +113,7 @@ $color-orange: #F28B64
         width: 40px
         height: 40px
         border: 1px solid $color-blue
-        border-radius:100px
+        border-radius: 100px
         margin-right: 17px
         &:last-child
             margin-right: 0px
@@ -135,9 +146,61 @@ $color-orange: #F28B64
         display: inline-flex
         align-items: center
         img
-            margin-right:12px
+            margin-right: 12px
     &__text
         font-size: 16px
+.elipse
+    width: 194px
+    height: 194px
+    background: linear-gradient(143.92deg, rgba(237, 123, 80, 0.5) 14.85%, rgba(72, 138, 234, 0.5) 53.25%, rgba(44, 44, 44, 0.5) 85.74%);
+    border-radius: 150px
+    display: flex
+    justify-content: center
+    align-items: center
+    &_dig
+        width: 282px
+        height: 282px
+    &__substract
+        width: 129.33px
+        height: 129.33px
+        background: #f0f0f0
+        border-radius: 150px
+        &_big
+            width: 188px
+            height: 188px
+.two-section
+    &__title
+        margin-bottom: 10px
+    &__square-one
+         background: #E2E2E2
+    &__img
+        margin-right: 15px
+    
+        
+.square
+    display: flex
+    justify-content: center
+    align-items: center
+    width: 360px
+    height: 360px
+    border-radius: 10px
+    text-align: center
+    
+
+.text-square
+    font-size: 36px
+    font-weight: bold
+    transform: rotate(90deg)
+.two-icons
+    display: flex
+    justify-content: flex-start
+    // align-items: center
+            
+
+
+
+
+
 
 
         
