@@ -5,7 +5,6 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-/* line 11, ../1/GuitarSite/src/sass/normalizez.scss */
 html {
   line-height: 1.15;
   /* 1 */
@@ -18,7 +17,6 @@ html {
 /**
  * Remove the margin in all browsers.
  */
-/* line 23, ../1/GuitarSite/src/sass/normalizez.scss */
 body {
   margin: 0;
 }
@@ -26,7 +24,6 @@ body {
 /**
  * Render the `main` element consistently in IE.
  */
-/* line 31, ../1/GuitarSite/src/sass/normalizez.scss */
 main {
   display: block;
 }
@@ -35,7 +32,6 @@ main {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 40, ../1/GuitarSite/src/sass/normalizez.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -47,7 +43,6 @@ h1 {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 53, ../1/GuitarSite/src/sass/normalizez.scss */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -61,7 +56,6 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 64, ../1/GuitarSite/src/sass/normalizez.scss */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -74,7 +68,6 @@ pre {
 /**
  * Remove the gray background on active links in IE 10.
  */
-/* line 76, ../1/GuitarSite/src/sass/normalizez.scss */
 a {
   background-color: transparent;
 }
@@ -83,7 +76,6 @@ a {
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 85, ../1/GuitarSite/src/sass/normalizez.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -96,7 +88,6 @@ abbr[title] {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 95, ../1/GuitarSite/src/sass/normalizez.scss */
 b,
 strong {
   font-weight: bolder;
@@ -106,7 +97,6 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 105, ../1/GuitarSite/src/sass/normalizez.scss */
 code,
 kbd,
 samp {
@@ -119,7 +109,6 @@ samp {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 116, ../1/GuitarSite/src/sass/normalizez.scss */
 small {
   font-size: 80%;
 }
@@ -128,7 +117,6 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 125, ../1/GuitarSite/src/sass/normalizez.scss */
 sub,
 sup {
   font-size: 75%;
@@ -137,12 +125,10 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 133, ../1/GuitarSite/src/sass/normalizez.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 137, ../1/GuitarSite/src/sass/normalizez.scss */
 sup {
   top: -0.5em;
 }
@@ -152,7 +138,6 @@ sup {
 /**
  * Remove the border on images inside links in IE 10.
  */
-/* line 148, ../1/GuitarSite/src/sass/normalizez.scss */
 img {
   border-style: none;
 }
@@ -163,7 +148,6 @@ img {
  * 1. Change the font styles in all browsers.
  * 2. Remove the margin in Firefox and Safari.
  */
-/* line 160, ../1/GuitarSite/src/sass/normalizez.scss */
 button,
 input,
 optgroup,
@@ -183,7 +167,6 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 176, ../1/GuitarSite/src/sass/normalizez.scss */
 button,
 input {
   /* 1 */
@@ -194,7 +177,6 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 186, ../1/GuitarSite/src/sass/normalizez.scss */
 button,
 select {
   /* 1 */
@@ -204,7 +186,6 @@ select {
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 195, ../1/GuitarSite/src/sass/normalizez.scss */
 button,
 [type="button"],
 [type="reset"],
@@ -215,7 +196,6 @@ button,
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 206, ../1/GuitarSite/src/sass/normalizez.scss */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -227,7 +207,6 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 218, ../1/GuitarSite/src/sass/normalizez.scss */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -238,7 +217,6 @@ button:-moz-focusring,
 /**
  * Correct the padding in Firefox.
  */
-/* line 229, ../1/GuitarSite/src/sass/normalizez.scss */
 fieldset {
   padding: 0.35em 0.75em 0.625em;
 }
@@ -249,7 +227,6 @@ fieldset {
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 240, ../1/GuitarSite/src/sass/normalizez.scss */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -268,7 +245,6 @@ legend {
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 253, ../1/GuitarSite/src/sass/normalizez.scss */
 progress {
   vertical-align: baseline;
 }
@@ -276,7 +252,6 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-/* line 261, ../1/GuitarSite/src/sass/normalizez.scss */
 textarea {
   overflow: auto;
 }
@@ -285,7 +260,6 @@ textarea {
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
  */
-/* line 270, ../1/GuitarSite/src/sass/normalizez.scss */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -297,7 +271,6 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 280, ../1/GuitarSite/src/sass/normalizez.scss */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -307,7 +280,6 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 290, ../1/GuitarSite/src/sass/normalizez.scss */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -318,7 +290,6 @@ textarea {
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
-/* line 299, ../1/GuitarSite/src/sass/normalizez.scss */
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -327,7 +298,6 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 308, ../1/GuitarSite/src/sass/normalizez.scss */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -340,7 +310,6 @@ textarea {
 /*
  * Add the correct display in Edge, IE 10+, and Firefox.
  */
-/* line 320, ../1/GuitarSite/src/sass/normalizez.scss */
 details {
   display: block;
 }
@@ -348,7 +317,6 @@ details {
 /*
  * Add the correct display in all browsers.
  */
-/* line 328, ../1/GuitarSite/src/sass/normalizez.scss */
 summary {
   display: list-item;
 }
@@ -358,7 +326,6 @@ summary {
 /**
  * Add the correct display in IE 10+.
  */
-/* line 339, ../1/GuitarSite/src/sass/normalizez.scss */
 template {
   display: none;
 }
@@ -366,12 +333,10 @@ template {
 /**
  * Add the correct display in IE 10.
  */
-/* line 347, ../1/GuitarSite/src/sass/normalizez.scss */
 [hidden] {
   display: none;
 }
 
-/* line 1, ../1/GuitarSite/src/sass/resets.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -393,67 +358,75 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 21, ../1/GuitarSite/src/sass/resets.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 25, ../1/GuitarSite/src/sass/resets.scss */
 html {
   height: 100%;
 }
 
-/* line 28, ../1/GuitarSite/src/sass/resets.scss */
 body {
   line-height: 1;
 }
 
-/* line 31, ../1/GuitarSite/src/sass/resets.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 34, ../1/GuitarSite/src/sass/resets.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 37, ../1/GuitarSite/src/sass/resets.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 42, ../1/GuitarSite/src/sass/resets.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 4, ../1/GuitarSite/src/sass/style.sass */
 * {
   box-sizing: border-box;
 }
 
-/* line 10, ../1/GuitarSite/src/sass/style.sass */
+@font-face {
+  font-family: "MontserratT";
+  src: url("../fonts/Montserrat-Regular.ttf");
+  font-weight: regular;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MontserratT";
+  src: url("../fonts/Montserrat-SemiBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+html {
+  font-family: "MontserratT";
+  font-weight: regular;
+}
+
 .container {
+  position: relative;
   max-width: 1140px;
   margin: 0 auto;
 }
 
-/* line 13, ../1/GuitarSite/src/sass/style.sass */
 .main-section {
   position: relative;
-  height: 800px;
+  min-height: 800px;
   background: #F0F0F0;
   padding-top: 16px;
   overflow: hidden;
-  margin-bottom: 20px;
 }
 
-/* line 20, ../1/GuitarSite/src/sass/style.sass */
 .main-section__nav-container {
   display: flex;
   flex-direction: row;
@@ -462,61 +435,57 @@ table {
   align-items: center;
 }
 
-/* line 26, ../1/GuitarSite/src/sass/style.sass */
 .main-section__logo {
-  width: 134px;
+  height: 69px;
 }
 
-/* line 28, ../1/GuitarSite/src/sass/style.sass */
 .main-section__content-container {
   position: relative;
   display: flex;
   flex-direction: row;
 }
 
-/* line 32, ../1/GuitarSite/src/sass/style.sass */
 .main-section__first-elipse {
   position: absolute;
   top: 129px;
-  right: 34px;
+  right: 80px;
 }
 
-/* line 36, ../1/GuitarSite/src/sass/style.sass */
 .main-section__second-elipse {
   position: absolute;
   right: -120px;
   top: 650px;
 }
 
-/* line 41, ../1/GuitarSite/src/sass/style.sass */
 .nav-menu__list {
   display: flex;
   flex-direction: row;
 }
 
-/* line 44, ../1/GuitarSite/src/sass/style.sass */
 .nav-menu__list-item {
   margin-right: 64px;
   font-size: 18px;
+  font-weight: bold;
 }
 
-/* line 47, ../1/GuitarSite/src/sass/style.sass */
 .nav-menu__list-item:last-child {
   margin-right: 0px;
 }
 
-/* line 50, ../1/GuitarSite/src/sass/style.sass */
+.nav-menu__list-item a {
+  text-decoration: none;
+  color: black;
+}
+
 .left-wrapper {
   position: relative;
 }
 
-/* line 52, ../1/GuitarSite/src/sass/style.sass */
 .left-wrapper img {
   position: relative;
   z-index: 5;
 }
 
-/* line 55, ../1/GuitarSite/src/sass/style.sass */
 .left-wrapper__rectangle-blue {
   position: absolute;
   top: 150px;
@@ -530,7 +499,6 @@ table {
   z-index: 2;
 }
 
-/* line 66, ../1/GuitarSite/src/sass/style.sass */
 .left-wrapper__rectangle-orange {
   position: absolute;
   width: 618.43px;
@@ -544,7 +512,6 @@ table {
   z-index: 3;
 }
 
-/* line 77, ../1/GuitarSite/src/sass/style.sass */
 .left-wrapper__rectangle-grey {
   position: absolute;
   width: 608.97px;
@@ -558,38 +525,32 @@ table {
   z-index: 1;
 }
 
-/* line 88, ../1/GuitarSite/src/sass/style.sass */
 .right-wrapper {
   width: 372px;
   position: absolute;
   top: 150px;
   right: 76px;
-  z-index: 1;
+  z-index: 5;
 }
 
-/* line 94, ../1/GuitarSite/src/sass/style.sass */
-.right-wrapper__icon_box {
+.right-wrapper__icons-box {
   margin-bottom: 1px;
   padding-left: 10px;
 }
 
-/* line 97, ../1/GuitarSite/src/sass/style.sass */
 .right-wrapper__title {
   margin-bottom: 5px;
 }
 
-/* line 99, ../1/GuitarSite/src/sass/style.sass */
 .right-wrapper__text {
   font-size: 16px;
   margin-bottom: 20px;
 }
 
-/* line 106, ../1/GuitarSite/src/sass/style.sass */
 .icons {
   display: inline-flex;
 }
 
-/* line 108, ../1/GuitarSite/src/sass/style.sass */
 .icons__item {
   display: flex;
   justify-content: center;
@@ -601,38 +562,33 @@ table {
   margin-right: 17px;
 }
 
-/* line 118, ../1/GuitarSite/src/sass/style.sass */
 .icons__item:last-child {
   margin-right: 0px;
 }
 
-/* line 120, ../1/GuitarSite/src/sass/style.sass */
 .icons__item i {
   font-size: 21px;
 }
 
-/* line 123, ../1/GuitarSite/src/sass/style.sass */
 .title {
   font-size: 72px;
   position: relative;
+  font-weight: bold;
 }
 
-/* line 126, ../1/GuitarSite/src/sass/style.sass */
 .title__hr {
   width: 65px;
   position: absolute;
   bottom: 0px;
-  margin: 0px;
+  margin: 0;
   border: none;
   border-top: 1px solid black;
 }
 
-/* line 133, ../1/GuitarSite/src/sass/style.sass */
 .buttons {
   display: inline-flex;
 }
 
-/* line 135, ../1/GuitarSite/src/sass/style.sass */
 .buttons__main-btn {
   margin-right: 32px;
   width: 200px;
@@ -643,25 +599,22 @@ table {
   border: none;
   font-size: 18px;
   color: white;
+  font-weight: bold;
 }
 
-/* line 145, ../1/GuitarSite/src/sass/style.sass */
 .buttons__icon-btn {
   display: inline-flex;
   align-items: center;
 }
 
-/* line 148, ../1/GuitarSite/src/sass/style.sass */
 .buttons__icon-btn img {
   margin-right: 12px;
 }
 
-/* line 150, ../1/GuitarSite/src/sass/style.sass */
 .buttons__text {
   font-size: 16px;
 }
 
-/* line 152, ../1/GuitarSite/src/sass/style.sass */
 .elipse {
   width: 194px;
   height: 194px;
@@ -672,63 +625,401 @@ table {
   align-items: center;
 }
 
-/* line 160, ../1/GuitarSite/src/sass/style.sass */
 .elipse_dig {
   width: 282px;
   height: 282px;
 }
 
-/* line 163, ../1/GuitarSite/src/sass/style.sass */
-.elipse__substract {
+.elipse__subtract {
   width: 129.33px;
   height: 129.33px;
-  background: #f0f0f0;
+  background: #F0F0F0;
   border-radius: 150px;
 }
 
-/* line 168, ../1/GuitarSite/src/sass/style.sass */
-.elipse__substract_big {
+.elipse__subtract_big {
   width: 188px;
   height: 188px;
 }
 
-/* line 172, ../1/GuitarSite/src/sass/style.sass */
-.two-section__title {
-  margin-bottom: 10px;
+.second-section {
+  overflow: hidden;
+  min-height: 700px;
 }
 
-/* line 174, ../1/GuitarSite/src/sass/style.sass */
-.two-section__square-one {
-  background: #E2E2E2;
+.second-section__container {
+  padding-top: 32px;
+  position: relative;
 }
 
-/* line 176, ../1/GuitarSite/src/sass/style.sass */
-.two-section__img {
-  margin-right: 15px;
+.second-section__title {
+  margin-bottom: 40px;
 }
 
-/* line 180, ../1/GuitarSite/src/sass/style.sass */
-.square {
-  display: flex;
+.second-section__cards-box {
+  display: inline-flex;
   justify-content: center;
-  align-items: center;
+  margin-bottom: 25px;
+}
+
+.second-section__cards-item {
+  margin-right: 30px;
+}
+
+.second-section__cards-item:last-child {
+  margin-right: 0;
+}
+
+.second-section__icons-box {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.second-section__icons-item:last-child {
+  margin-right: 0;
+}
+
+.second-section__first-elipse {
+  position: absolute;
+  top: 80px;
+  right: -60px;
+  z-index: -1;
+}
+
+.second-section__second-elipse {
+  position: absolute;
+  top: 364px;
+  left: -60px;
+  z-index: -1;
+}
+
+.cards-item {
+  position: relative;
   width: 360px;
   height: 360px;
+  background: #E2E2E2;
   border-radius: 10px;
-  text-align: center;
-}
-
-/* line 190, ../1/GuitarSite/src/sass/style.sass */
-.text-square {
-  font-size: 36px;
-  font-weight: bold;
-  transform: rotate(90deg);
-}
-
-/* line 194, ../1/GuitarSite/src/sass/style.sass */
-.two-icons {
   display: flex;
-  justify-content: flex-start;
+  align-items: flex-end;
 }
 
-/*# sourceMappingURL=style.css.map */
+.cards-item__img {
+  height: 335px;
+}
+
+.cards-item__text {
+  width: 280px;
+  font-size: 36px;
+  text-align: center;
+  transform: rotate(90deg);
+  position: absolute;
+  top: 144px;
+  right: -45px;
+  font-weight: bold;
+}
+
+.cards-item_orange {
+  background: #F28B64;
+}
+
+.cards-item_blue {
+  background: #5290EA;
+}
+
+.icons-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.icons-item__img {
+  margin-right: 20px;
+  width: 80px;
+}
+
+.icons-item__text {
+  font-size: 18px;
+}
+
+.icons-item__text span {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.third-section {
+  position: relative;
+  min-height: 640px;
+  background: #F0F0F0;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.third-section__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 167px;
+  padding-top: 46px;
+}
+
+.third-section__right-wrapper {
+  max-width: 480px;
+}
+
+.third-section__right-title {
+  margin-bottom: 20px;
+}
+
+.third-section__text {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.third-section__first-elipse {
+  position: absolute;
+  top: 140px;
+  left: 110px;
+  z-index: -1;
+}
+
+.third-section__figure {
+  position: absolute;
+  top: 249px;
+  left: 15px;
+  z-index: -1;
+}
+
+.third-section__second-elipse {
+  position: absolute;
+  right: -120px;
+  top: -120px;
+}
+
+.title__hr_top {
+  bottom: 75px;
+}
+
+.footer__img {
+  position: absolute;
+  left: -250px;
+  bottom: 0px;
+}
+
+.footer__container {
+  min-height: 272px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footer__title {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1199px) {
+  .container {
+    width: 960px;
+  }
+  .main-section {
+    min-height: 690px;
+  }
+  .left-wrapper img {
+    width: 750px;
+  }
+  .left-wrapper__rectangle-blue {
+    width: 500px;
+    height: 200px;
+  }
+  .left-wrapper__rectangle-orange {
+    width: 550px;
+    height: 200px;
+  }
+  .left-wrapper__rectangle-grey {
+    width: 500px;
+    height: 200px;
+  }
+  .right-wrapper {
+    right: 20px;
+  }
+  .main-section__first-elipse {
+    right: 10px;
+  }
+  .main-section__second-elipse {
+    top: 560px;
+  }
+  .second-section {
+    min-height: 600px;
+  }
+  .second-section__cards-box {
+    display: flex;
+    justify-content: center;
+  }
+  .cards-item {
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+  }
+  .cards-item__img {
+    height: 270px;
+  }
+  .cards-item__text {
+    top: 120px;
+    font-size: 30px;
+  }
+  .icons-item__img {
+    margin-right: 10px;
+  }
+  .third-section__container {
+    padding-left: 40px;
+  }
+  .third-section__right-wrapper {
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 991px) {
+  .main-section {
+    min-height: 530px;
+  }
+  .main-section__first-elipse {
+    top: 70px;
+  }
+  .main-section__second-elipse {
+    top: 400px;
+  }
+  .container {
+    width: 720px;
+  }
+  .left-wrapper img {
+    width: 550px;
+  }
+  .left-wrapper__rectangle-blue {
+    width: 380px;
+    height: 130px;
+  }
+  .left-wrapper__rectangle-orange {
+    width: 410px;
+    height: 130px;
+  }
+  .left-wrapper .left-wrapper__rectangle-grey {
+    width: 380px;
+    height: 130px;
+  }
+  .title {
+    font-size: 60px;
+  }
+  .right-wrapper {
+    top: 75px;
+    width: 300px;
+  }
+  .right-wrapper__text {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  .buttons__main-btn {
+    font-size: 14px;
+    margin-right: 10px;
+    width: 160px;
+    height: 50px;
+  }
+  .buttons__icon-btn {
+    font-size: 14px;
+  }
+  .elipse {
+    width: 150px;
+    height: 150px;
+  }
+  .elipse__subtract {
+    width: 110px;
+    height: 110px;
+  }
+  .elipse__subtract_big {
+    width: 170px;
+    height: 170px;
+  }
+  .second-section {
+    min-height: 450px;
+  }
+  .second-section__container {
+    padding-top: 20px;
+  }
+  .second-section__title {
+    margin-bottom: 25px;
+  }
+  .second-section__cards-box {
+    margin-bottom: 10px;
+  }
+  .second-section__first-elipse {
+    right: -35px;
+  }
+  .second-section__second-elipse {
+    top: 262px;
+    left: -35px;
+  }
+  .cards-item {
+    width: 220px;
+    height: 220px;
+  }
+  .cards-item__img {
+    height: 200px;
+  }
+  .cards-item__text {
+    font-size: 22px;
+    top: 92px;
+    right: -75px;
+  }
+  .icons-item__img {
+    width: 50px;
+  }
+  .icons-item__text {
+    font-size: 14px;
+  }
+  .icons-item__text span {
+    font-size: 30px;
+  }
+  .elipse_dig {
+    width: 250px;
+    height: 250px;
+  }
+  .third-section {
+    min-height: 510px;
+  }
+  .third-section__left-title {
+    display: none;
+  }
+  .third-section__right-wrapper {
+    max-width: 600px;
+  }
+  .third-section__container {
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  .third-section__right-title {
+    margin-bottom: 10px;
+  }
+  .title__hr_top {
+    bottom: 60px;
+  }
+  .footer__img {
+    width: 500px;
+  }
+  .footer__title {
+    margin-bottom: 10px;
+  }
+  .footer__container {
+    min-height: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .container {
+    width: 100%;
+  }
+}
