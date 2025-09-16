@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="134"
+   height="69"
+   viewBox="0 0 134 69"
+   sodipodi:docname="лого.png"
+   inkscape:export-filename="лого.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="134"
+       height="69"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image 1">
+    <g
+       id="g5"
+       transform="translate(-1.6442553,1.4093618)">
+      <g
+         id="g4"
+         transform="translate(6.1984541,-0.38226946)">
+        <path
+           style="fill:#000000"
+           d="m 28.829622,52.436109 c -7.827126,-7.41429 -2.987653,-2.258532 -7.972554,-7.93103 -6.311883,-7.182519 7.515793,-11.419023 7.515793,-11.419023 l 8.969123,-0.290666 2.200757,-7.26665 1.536377,-1.702473 c 0,0 7.225127,-1.785519 7.515793,-0.290666 0.290666,1.494854 9.010647,1.121141 9.010647,1.121141 l 46.305512,-14.086529 3.77209,-1.1111518 3.07276,-1.038093 3.11428,-0.33219 h 1.91009 l 2.57447,3.2803738 5.31503,0.124571 -0.29066,-2.2838038 -3.36342,-4.027801 -0.70591,-3.114279 -12.99692,3.280374 -0.74743,1.993139 -51.489408,14.2841578 -1.827044,-3.23885 0.33219,-7.515792 c 0,0 -1.45333,-2.0761858 -2.657518,-2.4498998 -1.204188,-0.373713 -6.436176,0.33219 -6.436176,0.33219 0,0 -0.705903,0.788951 -3.280374,2.3668518 -2.57447,1.577901 -7.681888,6.394652 -7.681888,6.394652 l -5.979415,0.747427 c -0.259893,0.965319 -6.853632,-5.149986 -9.515191,-5.150669 -0.486035,-1.25e-4 -14.07028,2.908389 -14.07028,2.908389 l -2.90666004,8.055601 0.166095,10.297882 c 0,0 6.64379404,12.955399 10.38092904,15.945107 3.737134,2.989708 11.792735,4.816751 11.792735,4.816751 0,0 4.733704,-1.411806 5.481131,-1.827043"
+           id="path1"
+           sodipodi:nodetypes="csccccsccccccccccccccccscsccscccscc" />
+        <ellipse
+           style="fill:#000000"
+           id="path2"
+           cx="107.37573"
+           cy="3.1417022"
+           rx="1.38"
+           ry="1.2038298" />
+        <ellipse
+           style="fill:#000000"
+           id="ellipse3"
+           cx="111.04594"
+           cy="2.2314894"
+           rx="1.38"
+           ry="1.2038298" />
+        <ellipse
+           style="fill:#000000"
+           id="ellipse4"
+           cx="115.00977"
+           cy="1.5561702"
+           rx="1.38"
+           ry="1.2038298" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4415px;font-family:'Californian FB';-inkscape-font-specification:'Californian FB';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.04151"
+         x="29.482393"
+         y="50.151993"
+         id="text4"
+         transform="scale(1.0415092,0.96014518)"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="29.482393"
+           y="50.151993"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.4415px;font-family:'Californian FB';-inkscape-font-specification:'Californian FB Bold';stroke-width:1.04151">GUITAR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5561px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.04764"
+         x="44.505108"
+         y="69.396011"
+         id="text5"
+         transform="scale(1.0476451,0.95452174)"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           x="44.505108"
+           y="69.396011"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';stroke-width:1.04764">SCHOOL</tspan></text>
+    </g>
+  </g>
+</svg>
